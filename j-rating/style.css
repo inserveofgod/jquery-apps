@@ -1,0 +1,12 @@
+@charset "UTF-8";
+
+#stars span {
+    cursor: pointer;
+    transition: all 250ms ease-in-out;
+    font-size: 5em;
+}
+
+#stars span:hover {
+    transition: all 250ms ease-in-out;
+    font-size: 6em;
+}

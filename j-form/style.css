@@ -1,0 +1,16 @@
+@charset "UTF-8";
+
+body {
+    background-image: url("https://images.alphacoders.com/244/244353.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+form {
+    opacity: .9;
+}
+
+input:hover {
+    border-color: var(--bs-success);
+}
